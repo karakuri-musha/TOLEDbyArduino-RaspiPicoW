@@ -1,5 +1,5 @@
 # TOLEDbyArduino-RaspiPicoW
-** Transparent OLED by Arduino for Raspberry Pi Pico W **
+*** Transparent OLED by Arduino for Raspberry Pi Pico W ***
 
 ## OverView
 Arduino を使って Raspberry Pi Pico W からWaveShareの透過型ディスプレイを制御するプログラムを作りました。
