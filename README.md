@@ -29,16 +29,16 @@ The "src" folder contains the following set of sources.
 ## How to use
 1. GitHubの右上にある「Code」から「Download Zip」を選択します。
 2. ダウンロードしたファイルを解凍します。
-3. 「LovyanGFX」フォルダ内にある「lgfx_user」-「LGFX_RasPiPicoW_ST1309_TOLED.hpp」をLovyanGFXライブラリ内にある「lgfx_user」にコピーします。
-　　※コピー先は、標準的な環境では、「Users\”ユーザ名”\Documents\Arduino\libraries\LovyanGFX\src\lgfx-user」にあります。
+3. 「LovyanGFX」フォルダ内にある「lgfx_user」-「LGFX_RasPiPicoW_ST1309_TOLED.hpp」をLovyanGFXライブラリ内にある「lgfx_user」にコピーします。</br>
+　　※コピー先は、標準的な環境では、「Users\”ユーザ名”\Documents\Arduino\libraries\LovyanGFX\src\lgfx-user」にあります。</br>
   　　ライブラリの場所を変更した場合は読み替えてください。
 4. 「RaspberryPi_Pico_WTOLED」フォルダにある「RaspberryPi_Pico_WTOLED.ino」をArduino IDEで開いてください。
 
 1. Select "Download Zip" from "Code" at the top right of GitHub.
 2. Unzip the downloaded file.
-3. Copy "lgfx_user"-"LGFX_RasPiPicoW_ST1309_TOLED.hpp" in the "LovyanGFX" folder to "lgfx_user" in the LovyanGFX library.
-*The copy destination is in "Users\"user name"\Documents\Arduino\libraries\LovyanGFX\src\lgfx-user" in the standard environment.
-   　　If you change the location of the library, please replace it.
+3. Copy "lgfx_user"-"LGFX_RasPiPicoW_ST1309_TOLED.hpp" in the "LovyanGFX" folder to "lgfx_user" in the LovyanGFX library.</br>
+*The copy destination is in "Users\"user name"\Documents\Arduino\libraries\LovyanGFX\src\lgfx-user" in the standard environment.</br>
+If you change the location of the library, please replace it.
 4. Open "RaspberryPi_Pico_WTOLED.ino" in "RaspberryPi_Pico_WTOLED.ino" folder with Arduino IDE.
 
 ## Operating environment
