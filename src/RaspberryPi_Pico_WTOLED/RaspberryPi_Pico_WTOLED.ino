@@ -263,7 +263,7 @@ void sprite_wico_print(int weather_stats, int icon_stats) {
 // 日付の描画関数
 // ============================================================
 void toled_date_print() {
-  lcd.fillRect(66, 0, 32, 64, c_BLACK);                           // 日付表示部分の塗りつぶし
+  lcd.fillRect(66, 0, 64, 32, c_BLACK);                           // 日付表示部分の塗りつぶし
   lcd.setFont(&fonts::lgfxJapanMincho_24);                        // フォントの設定
   
   char buf[64];                                                   // 日付表示内容の格納用
