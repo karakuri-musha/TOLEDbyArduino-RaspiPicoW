@@ -30,8 +30,8 @@ The "src" folder contains the following set of sources.
 1. GitHubの右上にある「Code」から「Download Zip」を選択します。
 2. ダウンロードしたファイルを解凍します。
 3. 「LovyanGFX」フォルダ内にある「lgfx_user」-「LGFX_RasPiPicoW_ST1309_TOLED.hpp」をLovyanGFXライブラリ内にある「lgfx_user」にコピーします。</br>
-　　※コピー先は、標準的な環境では、
-  　　「Users\”ユーザ名”\Documents\Arduino\libraries\LovyanGFX\src\lgfx-user」にあります。</br>
+　　※コピー先は、標準的な環境（Windows）では、以下の場所にあります。</br>
+  　　Users\”ユーザ名”\Documents\Arduino\libraries\LovyanGFX\src\lgfx-user</br>
   　　ライブラリの場所を変更した場合は読み替えてください。
 4. 「RaspberryPi_Pico_WTOLED」フォルダにある「RaspberryPi_Pico_WTOLED.ino」をArduino IDEで開いてください。
 
